@@ -48,5 +48,5 @@ This page is a partial list of the Azure domains in use. Some of them are REST A
 |[Azure Stack Edge](https://azure.microsoft.com/products/azure-stack/edge/) and [Azure IoT Edge](https://azure.microsoft.com/services/iot-edge/)|*.azureedge.net|
 |[Azure Table Storage](../../storage/tables/table-storage-overview.md)|*.table.core.windows.net|
 |[Azure Traffic Manager](../../traffic-manager/traffic-manager-overview.md)|*.trafficmanager.net|
-|Azure Websites|*.azurewebsites.net|
+|[Azure Websites (Web Apps)](https://azure.microsoft.com/en-us/products/app-service/web)|*.azurewebsites.net|
 |[GitHub Codespaces](https://visualstudio.microsoft.com/services/github-codespaces/)|*.visualstudio.com|
